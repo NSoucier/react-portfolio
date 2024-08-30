@@ -1,0 +1,14 @@
+#navbar {
+    border-bottom: 1px solid white;
+}
+#name {
+    color: white;
+    left: 25%;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+/* 
+better font
+fade/blur bottom border
+ */

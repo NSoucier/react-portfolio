@@ -1,0 +1,13 @@
+#footer {
+    color: rgb(230, 108, 255);
+    border-top: 1px solid pink;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    background-color: black;
+    height: 40px;
+}
+
+/* 
+fade/blur border
+ */
