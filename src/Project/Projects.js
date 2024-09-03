@@ -18,6 +18,7 @@ function Projects() {
                     Deployed using Vercel @ <a href='https://voyagervibes.vercel.app/' target="_blank" rel="noopener noreferrer">voyagervibes.vercel.app</a>
                 </div>
                 <div className='video'><img src={vv} className='preview'/></div>
+                {/* <div id='fade'></div> */}
             </div>
             <div className='spacer'></div>
             <div className='project'>

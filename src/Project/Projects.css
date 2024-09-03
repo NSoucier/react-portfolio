@@ -11,6 +11,11 @@
     margin: 0px 80px;
     max-width: 650px;
     display: inline-block;
+
+    background-image: linear-gradient(to right top,#4000ff95,#ae00ff79,#ea00bf7f);
+    border-radius: 300px;
+    box-shadow: inset 0px 0px 40px 40px black;
+
 }
 
 .app {
@@ -41,7 +46,22 @@ a {
     color: rgb(2, 200, 200);
 }
 
-.spacer {
+
+#fade {
+    transform-origin: center center;
+    background-image: linear-gradient(to right top,#6c22bd,#8b25bb,#a52bb9,#bc34b7,#d040b5,#e645a5,#f55195,#ff6188,#ff796e,#ff965b,#f5b255,#e1cd60);
+    position: relative;
+    left: 30%;
+    border-radius: 20px;
+    transform: skewY(-15deg) translate(-50%, -90%) scale(.7) translateZ(0);
+    pointer-events: none;
+    display: block;
+
+    width: 700px;
+    height: 300px;
+    filter: blur(80px);
+    opacity: .3;
+    top: -100px
 }
 
 /* 
