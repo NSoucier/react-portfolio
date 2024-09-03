@@ -1,13 +1,16 @@
 #footer {
-    color: rgb(230, 108, 255);
-    border-top: 1px solid pink;
+    border-top: 1px solid white;
+    box-shadow: 0 1px 8px 3px white;
     position: fixed;
     bottom: 0;
     width: 100vw;
     background-color: black;
-    height: 40px;
+    height: 50px;
 }
 
-/* 
-fade/blur border
- */
+.socials {
+    height: 32px;
+    border-radius: 8px;
+    margin: 10px 5px;
+}
+

@@ -1,13 +1,16 @@
 #intro {
-    margin: 5rem;
+    margin: 80px;
+    margin-bottom: 175px;
     color: white;
     float: right;
-    font-weight: bold;
     font-size: large;
+    background: radial-gradient(closest-side, #a92abd58 0%, #d040c222 70%, #000000 100%); 
+    border-radius: 20px;
+
 }
 
 #headshot {
-    width: 250px;
+    width: 225px;
     float: left;
     margin: 22px;
     border-radius: 50%;
@@ -23,14 +26,14 @@
     position: absolute;
     left: 50%;
     border-radius: 20px;
-    transform: skewY(-15deg) translate(-50%,-50%) scale(.7) translateZ(0);
+    transform: skewY(-15deg) translate(-50%, -10%) scale(.7) translateZ(0px);
     pointer-events: none;
 
-    width: 900px;
-    height: 450px;
+    width: 100vw;
+    height: 400px;
     filter: blur(100px);
     opacity: .4;
-    bottom: 0;
+    top: 0;
     transition: filter .25s ease-in-out,opacity .25s ease-in-out
 }
 

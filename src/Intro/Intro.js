@@ -1,12 +1,14 @@
 import './Intro.css';
-import headshot from '../headshot.png';
+import headshot from '../Images/headshot.png';
 
 function Intro() {
     return (
         <div id="intro">
             <img src={headshot} id='headshot' />
             <p id='bio'>
-                &emsp; I am an experienced software developer with a focus on full-stack development and a passion for delivering end-to-end solutions.
+                <b>About.</b>
+                <br/> <br/>
+                &emsp; Hi! I am an experienced software developer with a focus on full-stack development and a passion for delivering end-to-end solutions.
                 Leveraging a solid engineering background with hands-on experience in electrical and biomedical engineering, I bring a unique 
                 perspective to software development, blending technical proficiency with practical insights.
                 <br/> <br/>
@@ -21,10 +23,11 @@ function Intro() {
                 <br/> <br/>
             </p>
             <p>
-                Tech stack
+                <b>Tech stack:</b> JavaScript, SQL, ReactJS, Nodejs, Expressjs, Redux, jQuery, CSS/HTML, C/C++, Python, Java, GitHub Assembly, Jira, MATLAB, Git, Agile, SolidWorks, CRM
             </p>
-            <div className='glow'></div>
-        </div>
+            
+            {/* <span className='glow'></span> */}
+       </div>
     )
 }
 
