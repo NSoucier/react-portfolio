@@ -12,9 +12,10 @@
     max-width: 650px;
     display: inline-block;
 
-    background-image: linear-gradient(to right top,#4000ff95,#ae00ff79,#ea00bf7f);
+    /* background-image: linear-gradient(to right top,#4000ff95,#ae00ff79,#ea00bf7f); */
+    background-image: linear-gradient(to right top,#6d22bd8a,#8b25bb75,#a62bb97c,#bc34b77d,#d040b680,#e645a66c,#f5519577,#ff61887e,#ff7a6e77,#ff975b85,#f5b2557c,#e1ce6081);
     border-radius: 300px;
-    box-shadow: inset 0px 0px 40px 40px black;
+    box-shadow: inset 0px 0px 40px 50px black;
 
 }
 
@@ -35,12 +36,12 @@
     max-width: 450px;
     height: auto;
     border-radius: 15px;
-    box-shadow: 0 1px 10px 1px white;
+    box-shadow: 0 1px 6px 1px white;
 }
 
-.preview:hover {
+/* .preview:hover {
     box-shadow: 0 1px 15px 8px white;
-}
+} */
 
 a {
     color: rgb(2, 200, 200);
