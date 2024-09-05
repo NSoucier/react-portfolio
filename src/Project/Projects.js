@@ -58,6 +58,8 @@ function Projects() {
                 </div>
             </div>
 
+            <div className='spacer'></div>
+
         </div>
     )
 }
