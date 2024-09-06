@@ -15,7 +15,7 @@ function Intro() {
                 </div>                
             </div>
 
-            <p id='bio'>
+            <div id='bio'>
                 <h1>About Me</h1>
                 
                 I am an experienced software developer with a focus on full-stack development and a passion for delivering end-to-end solutions.
@@ -31,10 +31,7 @@ function Intro() {
                 pickleball courts, or playing soccer. Recently, I've embarked on a journey to learn Spanish, further enriching my 
                 personal and professional horizons.
                 <br/> <br/>
-            </p>
-            <p>
-                <b>Tech stack:</b> JavaScript, SQL, ReactJS, Nodejs, Expressjs, TypeScript, Redux, jQuery, CSS/HTML, C/C++, Python, Java, GitHub Assembly, Jira, MATLAB, Git, Agile, SolidWorks, CRM
-            </p>
+            </div>
             
             {/* <span className='glow'></span> */}
        </div>
