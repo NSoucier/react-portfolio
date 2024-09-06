@@ -1,25 +1,41 @@
 #intro {
     margin: 80px;
     color: white;
-    float: right;
+    /* float: right; */
     font-size: large;
-
-    background: radial-gradient(closest-side, #4000ff5f 0%, #b700ea1a 70%, #000000 100%); 
+    background: radial-gradient(closest-side, #4000ff32 0%, #b700ea15 70%, #000000 100%); 
     border-radius: 20px;
 }
 
 #headshot {
     width: 225px;
-    float: left;
-    margin: 22px;
+    /* float: left; */
+    /* margin: 22px; */
     border-radius: 50%;
+    display: inline-block;
+    margin-top: 20px;
+    /* padding-top: 120px; */
+}
+
+#welcome {
+    /* text-align: left; */
+    display: inline-block;
+    /* float: right; */
+    margin: 0;
+    /* margin-left: 75px; */
+    margin-top: 30px;
+    /* transform: translateY(-100%);     */
+    padding: 0px 35px;
+    /* width: 225px; */
+    height: 140px;
+    vertical-align: bottom;
 }
 
 #bio {
-    text-align: left;
+    margin-top: 0;
 }
 
-.glow {
+/* .glow {
     transform-origin: center center;
     background-image: linear-gradient(to right top,#6c22bd,#8b25bb,#a52bb9,#bc34b7,#d040b5,#e645a5,#f55195,#ff6188,#ff796e,#ff965b,#f5b255,#e1cd60);
     position: absolute;
@@ -34,7 +50,7 @@
     opacity: .4;
     top: 0;
     transition: filter .25s ease-in-out,opacity .25s ease-in-out
-}
+} */
 
 /* 
 better color
