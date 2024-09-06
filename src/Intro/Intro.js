@@ -33,7 +33,7 @@ function Intro() {
                 <br/> <br/>
             </p>
             <p>
-                <b>Tech stack:</b> JavaScript, SQL, ReactJS, Nodejs, Expressjs, Redux, jQuery, CSS/HTML, C/C++, Python, Java, GitHub Assembly, Jira, MATLAB, Git, Agile, SolidWorks, CRM
+                <b>Tech stack:</b> JavaScript, SQL, ReactJS, Nodejs, Expressjs, TypeScript, Redux, jQuery, CSS/HTML, C/C++, Python, Java, GitHub Assembly, Jira, MATLAB, Git, Agile, SolidWorks, CRM
             </p>
             
             {/* <span className='glow'></span> */}
