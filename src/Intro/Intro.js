@@ -16,7 +16,7 @@ function Intro() {
             </div>
 
             <p id='bio'>
-                <h1>About me</h1>
+                <h1>About Me</h1>
                 
                 I am an experienced software developer with a focus on full-stack development and a passion for delivering end-to-end solutions.
                 Leveraging a solid engineering background with hands-on experience in electrical and biomedical engineering, I bring a unique 
