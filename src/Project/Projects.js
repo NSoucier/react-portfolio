@@ -7,7 +7,7 @@ import cc from '../Images/cc.png';
 function Projects() {
     return (
         <div className='project-list'>
-            <h1 style={{margin: "100px 0"}}>Fullstack applications</h1>
+            <h1 style={{margin: "50px 0"}}>Fullstack applications</h1>
             <div className='project'>
                 <div className='description'>
                     <span className='app'>VoyagerVibes</span> is a travel website designed to reduce your time spent sifting through countless websites 
@@ -57,9 +57,7 @@ function Projects() {
                     <img src={cc} className='preview'/>
                 </div>
             </div>
-
-            <div className='spacer'></div>
-
+            
         </div>
     )
 }
