@@ -1,7 +1,7 @@
 #intro {
     margin: 80px;
     margin-bottom: 40px;
-    color: white;
+    color: rgba(255, 255, 255, 0.85);
     /* float: right; */
     font-size: large;
     background: radial-gradient(closest-side, #4000ff3a 0%, #b700ea16 70%, #000000 100%); 
@@ -33,7 +33,9 @@
 }
 
 #bio {
-    margin-top: 0;
+
+    margin: 0 auto;
+    max-width: 930px;
 }
 
 /* .glow {

@@ -1,5 +1,5 @@
 .project-list {
-    color: white;
+    color: rgba(255, 255, 255, 0.95);
     margin-bottom: 60px;
 }
 
@@ -9,15 +9,16 @@
 }
 
 .description {
-    margin: 0px 80px;
-    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 15px;
+    max-width: 500px;
     display: inline-block;
 
     /* background-image: linear-gradient(to right top,#4000ff95,#ae00ff79,#ea00bf7f); */
     background-image: linear-gradient(to right top,#6d22bd8a,#8b25bb75,#a62bb97c,#bc34b77d,#d040b680,#e645a66c,#f5519577,#ff61887e,#ff7a6e77,#ff975b85,#f5b2557c,#e1ce6081);
     border-radius: 300px;
     box-shadow: inset 0px 0px 40px 50px black;
-
+    border: 5px solid black;
 }
 
 .app {
