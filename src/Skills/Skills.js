@@ -91,7 +91,7 @@ function Skills() {
                 <b>Other skills:</b> TypeScript, Angular, Redux, C/C++, Java, Git, Assembly, Jira, Agile, SolidWorks, MATLAB, CRM
             </p>
             <p>
-                <b>Spoken languages:</b> English, French (Bilingual), Spanish (Beginner)
+                <b>Spoken languages:</b> English, French (Bilingual), Spanish (Basic)
             </p>
         </div>
     )
