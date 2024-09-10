@@ -6,17 +6,17 @@ function Intro() {
         <div id="intro">
             <div>
                 <img src={headshot} id='headshot' />
-                <div id='welcome'>
+                <div id='welcome' className='spartan-intro'>
                     HELLO! 
                     <br/>
-                    <span style={{ fontWeight: 600, fontSize: 'x-large' }}>I'm Nathan</span>
+                    <span style={{fontSize: 'xx-large', lineHeight: '1.5'}} className='spartan-heading'>I'm Nathan</span>
                     <br/>
                     Software Engineer
                 </div>                
             </div>
 
-            <div id='bio'>
-                <h1>About Me</h1>
+            <div id='bio' className='spartan-intro'>
+                <h1 className='spartan-heading'>About Me</h1>
                 
                 I am an experienced software developer with a focus on full-stack development and a passion for delivering end-to-end solutions.
                 Leveraging a solid engineering background with hands-on experience in electrical and biomedical engineering, I bring a unique 

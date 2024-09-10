@@ -10,14 +10,14 @@
 #name {
     color: white;
     left: 25%;
-    font-weight: 600;
-    font-size: 1.5rem;
-    margin: 15px 0;
+    font-weight: 500;
+    font-size: 28px;
+    margin: 8px 0;
 }
 
 #title {
     font-weight: 100;
-    font-size: large;
+    font-size: 23px;
 }
 
 /* 

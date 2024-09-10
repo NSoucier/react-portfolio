@@ -12,7 +12,7 @@ import css from '../Images/css.png';
 function Skills() {
     return (
         <div id='skills'>
-            <h1>Skills</h1>
+            <h1 className='spartan-heading'>Skills</h1>
                 <Row>
                     <Col>
                         <Card className='skillCard'>
@@ -88,10 +88,10 @@ function Skills() {
                     </Col>                                                                                                                        
                 </Row>
             <p>
-                <b>Other skills:</b> TypeScript, Angular, Redux, C/C++, Java, Git, Assembly, Jira, Agile, SolidWorks, MATLAB, CRM
+                <b className='spartan-subheading'>Other skills:</b> TypeScript, Angular, Redux, C/C++, Java, Assembly, object-oriented programming, data structures, Git, Jira, Agile, SolidWorks, MATLAB, CRM
             </p>
             <p>
-                <b>Spoken languages:</b> English, French (Bilingual), Spanish (Basic)
+                <b className='spartan-subheading'>Spoken languages:</b> English, French (Bilingual), Spanish (Basic)
             </p>
         </div>
     )
