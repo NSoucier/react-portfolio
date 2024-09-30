@@ -31,9 +31,10 @@ function Intro() {
                 pickleball courts, or playing soccer. Recently, I've embarked on a journey to learn Spanish, further enriching my 
                 personal and professional horizons.
                 <br/> <br/>
+                <a href='https://drive.google.com/file/d/19Azg54rAjrK-gXop3cbV8esvqd-8h6q_/view?usp=sharing' target="_blank" rel="noopener noreferrer">My Resume</a>
+
             </div>
             
-            {/* <span className='glow'></span> */}
        </div>
     )
 }
