@@ -26,9 +26,6 @@ function Projects() {
             <div className='spacer'></div>
 
             <div className='project'>
-                <div className='video'>
-                    <img src={up} className='preview'/>
-                </div>
                 <div className='description'>
                     <span className='app spartan-heading'>UpWord</span> is an app designed to keep you focused on your upward relationship with God by being grounded in the Word.
                     Need help with memorizing Bible verses? 
@@ -39,6 +36,9 @@ function Projects() {
                     <br/> <br/>
                     Deployed using Render @ <a href='https://upword.onrender.com/' target="_blank" rel="noopener noreferrer">upword.onrender.com</a>
                 </div>
+                <div className='video'>
+                    <img src={up} className='preview'/>
+                </div>                
             </div>
 
             <div className='spacer'></div>
