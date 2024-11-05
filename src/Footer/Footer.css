@@ -14,3 +14,9 @@
     margin: 10px 10px;
 }
 
+#copyright {
+    position: fixed;
+    bottom: 10px;
+    color: rgba(255, 255, 255, 0.675);
+}
+
