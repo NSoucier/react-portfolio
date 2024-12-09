@@ -88,7 +88,7 @@ function Skills() {
                     </Col>                                                                                                                        
                 </Row>
             <p>
-                <b className='spartan-subheading'>Other skills:</b> TypeScript, Angular, Redux, C/C++, Java, Assembly, object-oriented programming, data structures, Git, Jira, Agile, SolidWorks, MATLAB, CRM
+                <b className='spartan-subheading'>Other skills:</b> TypeScript, Angular, Playwright, Selenium, Redux, C/C++, Java, Assembly, object-oriented programming, data structures, Git, Jira, Agile, SolidWorks, MATLAB, CRM
             </p>
             <p>
                 <b className='spartan-subheading'>Spoken languages:</b> English, French (Bilingual), Spanish (Basic)
