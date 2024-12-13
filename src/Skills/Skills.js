@@ -18,7 +18,7 @@ function Skills() {
                         <Card className='skillCard'>
                             <CardBody>
                                 <CardText>
-                                    <img src={js} className='logos' />
+                                    <img src={js} alt='JavaScript' className='logos' />
                                 </CardText>
                             </CardBody>
                         </Card>
@@ -27,7 +27,7 @@ function Skills() {
                         <Card className='skillCard'>
                             <CardBody>
                                 <CardText>
-                                    <img src={py} className='logos' />
+                                    <img src={py} alt='Python' className='logos' />
                                 </CardText>
                             </CardBody>
                         </Card>
@@ -36,7 +36,7 @@ function Skills() {
                         <Card className='skillCard'>
                             <CardBody>
                                 <CardText>
-                                    <img src={node} className='logos' />
+                                    <img src={node} alt='Node' className='logos' />
                                 </CardText>
                             </CardBody>
                         </Card>
@@ -45,7 +45,7 @@ function Skills() {
                         <Card className='skillCard'>
                             <CardBody>
                                 <CardText>
-                                    <img src={react} className='logos' />
+                                    <img src={react} alt='React' className='logos' />
                                 </CardText>
                             </CardBody>
                         </Card>
@@ -54,7 +54,7 @@ function Skills() {
                         <Card className='skillCard'>
                             <CardBody>
                                 <CardText>
-                                    <img src={ex} className='logos' />
+                                    <img src={ex} alt='Express' className='logos' />
                                 </CardText>
                             </CardBody>
                         </Card>
@@ -63,7 +63,7 @@ function Skills() {
                         <Card className='skillCard'>
                             <CardBody>
                                 <CardText>
-                                    <img src={psql} className='logos' />
+                                    <img src={psql} alt='PostgreSQL' className='logos' />
                                 </CardText>
                             </CardBody>
                         </Card>
@@ -72,7 +72,7 @@ function Skills() {
                         <Card className='skillCard'>
                             <CardBody>
                                 <CardText>
-                                    <img src={html} className='logos' />
+                                    <img src={html} alt='HTML' className='logos' />
                                 </CardText>
                             </CardBody>
                         </Card>
@@ -81,14 +81,14 @@ function Skills() {
                         <Card className='skillCard'>
                             <CardBody>
                                 <CardText>
-                                    <img src={css} className='logos' />
+                                    <img src={css} alt='CSS' className='logos' />
                                 </CardText>
                             </CardBody>
                         </Card>
                     </Col>                                                                                                                        
                 </Row>
             <p>
-                <b className='spartan-subheading'>Other skills:</b> TypeScript, Angular, Playwright, Selenium, Redux, C/C++, Java, Assembly, object-oriented programming, data structures, Git, Jira, Agile, SolidWorks, MATLAB, CRM
+                <b className='spartan-subheading'>Other skills:</b> TypeScript, Angular, Vue.js, Playwright, Selenium, .NET, Redux, C/C++, Java, C#, Assembly, object-oriented programming, data structures, Git, Jira, Agile, SolidWorks, MATLAB, CRM
             </p>
             <p>
                 <b className='spartan-subheading'>Spoken languages:</b> English, French (Bilingual), Spanish (Basic)
