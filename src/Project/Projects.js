@@ -34,7 +34,7 @@ function Projects() {
                     <br/> <br/>
                     <b className='spartan-subheading'>Tech Stack:</b> Python, Flask, PostreSQL, JavaScript, SQLAlchemy, Jinja, RESTful API, HTML, CSS, WTForms, Bcrypt
                     <br/> <br/>
-                    Deployed using Render @ <a href='https://upword.onrender.com/' target="_blank" rel="noopener noreferrer">upword.onrender.com</a>
+                    Deployed using Vercel @ <a href='https://upword.vercel.app/' target="_blank" rel="noopener noreferrer">upword.vercel.app</a>
                 </div>
                 <div className='video'>
                     <img src={up} className='preview'/>
