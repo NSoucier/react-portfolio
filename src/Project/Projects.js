@@ -32,7 +32,7 @@ function Projects() {
                     We have a game for that. Want to compare translations? UpWord has you covered. 
                     Simply want to read a chapter or just keep track of your favorites? You can do that too right from our homepage.
                     <br/> <br/>
-                    <b className='spartan-subheading'>Tech Stack:</b> Python, Flask, PostreSQL, JavaScript, SQLAlchemy, Jinja, RESTful API, HTML, CSS, WTForms, Bcrypt
+                    <b className='spartan-subheading'>Tech Stack:</b> Python, Flask, PostgreSQL, JavaScript, SQLAlchemy, Jinja, RESTful API, HTML, CSS, WTForms, Bcrypt
                     <br/> <br/>
                     Deployed using Vercel @ <a href='https://upword.vercel.app/' target="_blank" rel="noopener noreferrer">upword.vercel.app</a>
                 </div>
